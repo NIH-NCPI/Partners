@@ -2,9 +2,9 @@
 
 <div align="center">
   <h2>
-    <a> Home</a> |
+    <a href="https://github.com/NIH-NCPI"> Home</a> |
     <a href="https://github.com/NIH-NCPI/About/blob/main/README.md">About</a> |
-    <a href="https://github.com/NIH-NCPI/Partners/blob/main/README.md">Partners</a> |
+    <a>Partners</a> |
     <a href="https://github.com/NIH-NCPI/Interoperability-Projects">Projects</a> |
     <a href="https://github.com/NIH-NCPI/Resources/blob/main/README.md">Resources</a>
   </h2>
