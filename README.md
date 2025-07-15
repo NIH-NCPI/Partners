@@ -1,12 +1,12 @@
-<p align="center"><img src="https://github.com/NIH-NCPI/.github/blob/main/profile/ncpi-logo-close-crop.png" width="250" alt="NCPI Logo"/></p>
+<p align="center"><img src="https://github.com/NCPITest/.github/blob/main/profile/ncpi-logo-close-crop.png" width="250" alt="NCPI Logo"/></p>
 
 <div align="center">
   <h2>
-    <a href="https://github.com/NCPITest">Home</a> |
-    <a href="https://github.com/NCPITest/About/blob/main/README.md">About</a> |
-    <a> Partners</a> |
-    <a href="https://github.com/NCPITest/Projects/blob/main/README.md">Projects</a> |
-    <a href="https://github.com/NCPITest/Resources/blob/main/README.md">Resources</a>
+    <a> Home</a> |
+    <a href="https://github.com/NIH-NCPI/About/blob/main/README.md">About</a> |
+    <a href="https://github.com/NIH-NCPI/Partners/blob/main/README.md">Partners</a> |
+    <a href="https://github.com/NIH-NCPI/Interoperability-Projects">Projects</a> |
+    <a href="https://github.com/NIH-NCPI/Resources/blob/main/README.md">Resources</a>
   </h2>
 </div>
 
