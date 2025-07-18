@@ -45,6 +45,7 @@ NHGRI's Genomic Data Science Analysis, Visualization, and Informatics Lab-Space
 />
 
 Tools, applications, and workflows in secure workspaces  
+
 [Visit Website](https://biodatacatalyst.nhlbi.nih.gov)
 
 **Social**  
@@ -64,6 +65,7 @@ Tools, applications, and workflows in secure workspaces
 
 
 Accelerating data-driven scientific discovery  
+
 [Visit Website](https://datacommons.cancer.gov/)
 
 **Social**  
@@ -81,6 +83,7 @@ Accelerating data-driven scientific discovery
 />
 
 United with Researchers to Drive Data-Driven Discoveries that put Kids First in Cancer and Rare Disease Care  
+
 [Visit Website](https://kidsfirstdrc.org)
 
 **Social**  
@@ -99,6 +102,7 @@ United with Researchers to Drive Data-Driven Discoveries that put Kids First in 
 />
 
 Access to protected genomic, subject and sample data related to human studies  
+
 [Visit Website](https://www.ncbi.nlm.nih.gov/)
 
 **Social**  
